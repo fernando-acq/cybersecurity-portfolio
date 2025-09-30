@@ -1,39 +1,50 @@
 # 🔐 Portfólio de Cibersegurança | Fernando ACQ
 
-Bem-vindo ao meu portfólio de projetos práticos em **Cibersegurança**! 
+Bem-vindo ao meu portfólio de projetos práticos em **Cibersegurança**!  
 
-Sou entusiasta e estudante de segurança da informação, focado em desenvolver habilidades técnicas através de projetos práticos que demonstram competências em análise de segurança, automação com Python, hardening de sistemas e análise de logs.
+Sou estudante de Cibersegurança com foco no desenvolvimento de habilidades técnicas voltadas para proteção de sistemas e dados.  
+Tenho experiência prática em **análise de segurança, automação com Python, hardening de sistemas, análise de logs e gestão de vulnerabilidades**, aplicando metodologias reconhecidas no setor.  
+
+Este portfólio reúne projetos que demonstram minha capacidade de aprender, aplicar conceitos e utilizar ferramentas de segurança em cenários reais.
 
 ---
 
 ## 🎯 Objetivo
 
-Busco oportunidades de **estágio ou posição júnior** em Cibersegurança para aplicar e expandir meus conhecimentos em ambientes reais, contribuindo para a proteção de sistemas e dados.
+Busco oportunidades como **profissional júnior em Cibersegurança**, aplicando e expandindo meus conhecimentos em ambientes reais, contribuindo para a proteção de sistemas e dados.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-**Linguagens:**
+**Linguagens de Automação/Dados:**
 - Python 🐍
 - Bash/Shell Script
 - SQL
 
-**Sistemas Operacionais:**
+**Sistemas Operacionais e Ambientes:**
 - Linux (Kali, Ubuntu)
 - Windows
+- Cloud Security
 
-**Segurança:**
-- Análise de Logs
-- Gerenciamento de Acessos
-- Hardening de Sistemas
-- Análise de Vulnerabilidades
-
-**Ferramentas:**
+**Ferramentas Essenciais:**
 - Wireshark
 - Nmap
 - Metasploit
 - Burp Suite
+- Análise de Logs (SIEM concepts)
+
+---
+
+## 🛡️ Competências Técnicas
+
+- Análise de Vulnerabilidades (Vulnerability Management)
+- **Hardening de Sistemas**
+- Gerenciamento de Acessos
+- **Inteligência de Ameaças Cibernéticas (Cyber Threat Intelligence)**
+- **Resposta e Tratamento de Incidentes (CSIM)**
+- Segurança de Redes (Network Security)
+- Gestão de Ameaças (Threat Management)
 
 ---
 
@@ -56,7 +67,7 @@ Conjunto de 8 cursos que compõem o programa profissional da Google:
 
 | Curso | Status | Link |
 |-------|--------|------|
-| Foundations of Cybersecurity | ✅ Concluído | [Ver Certificado](./certificados/fundations-of-cybersecurity.pdf) |
+| Foundations of Cybersecurity | ✅ Concluído | [Ver Certificado](./certificados/fundations-cybersecurity.pdf) |
 | Play It Safe: Manage Security Risks | ✅ Concluído | [Ver Certificado](./certificados/manage-security-risks.pdf) |
 | Connect and Protect: Networks and Network Security | ✅ Concluído | [Ver Certificado](./certificados/networks-security.pdf) |
 | Tools of the Trade: Linux and SQL | ✅ Concluído | [Ver Certificado](./certificados/linux-sql.pdf) |
@@ -69,8 +80,8 @@ Conjunto de 8 cursos que compõem o programa profissional da Google:
 
 ### Cursos Complementares
 
-| Certificação | Emissora | Ano | Link |
-|--------------|----------|-----|------|
+| Certificação | Instituição | Ano | Link |
+|--------------|-------------|-----|------|
 | Segurança em Tecnologia da Informação | Fundação Bradesco | 2024 | [Ver Certificado](./certificados/bradesco-seguranca-ti.pdf) |
 | Lei Geral de Proteção de Dados (LGPD) | Fundação Bradesco | 2024 | [Ver Certificado](./certificados/bradesco-lgpd.pdf) |
 | Fundamentos de TI: Hardware e Software | Fundação Bradesco | 2024 | [Ver Certificado](./certificados/bradesco-fundamentos-ti.pdf) |
@@ -78,12 +89,44 @@ Conjunto de 8 cursos que compõem o programa profissional da Google:
 ---
 
 <details>
-<summary>📎 Visualizar Imagens dos Certificados</summary>
+<summary>📎 Visualizar Imagens dos Certificados dos Cursos de Google Cybersecurity Professional Certificate</summary>
 
 <div>
   <a href="./certificados/google-cybersecurity-professional.pdf" target="_blank">
-    <img src="./certificados/google-cert.png" alt="Google Cybersecurity Professional Certificate" width="300"/>
+    <img src="./certificados/google-cybersecurity-professional.png" alt="Google Cybersecurity Professional Certificate" width="300"/>
   </a>
+  <a href="./certificados/fundations-cybersecurity.pdf" target="_blank">
+    <img src="./certificados/fundations-cybersecurity.png" alt="Google Cybersecurity Professional Certificate - Fundations Cybersecurity" width="300"/>
+  </a>
+  <a href="./certificados/manage-security-risks.pdf" target="_blank">
+    <img src="./certificados/manage-security-risks.png" alt="Google Cybersecurity Professional Certificate - Manage Security Risks" width="300"/>
+  </a>
+  <a href="./certificados/networks-security.pdf" target="_blank">
+    <img src="./certificados/networks-security.png" alt="Google Cybersecurity Professional Certificate - Networks Security" width="300"/>
+  </a>
+  <a href="./certificados/linux-sql.pdf" target="_blank">
+    <img src="./certificados/linux-sql.png" alt="Google Cybersecurity Professional Certificate - Linux Sql" width="300"/>
+  </a>
+  <a href="./certificados/assets-threats-vulnerabilities.pdf" target="_blank">
+    <img src="./certificados/assets-threats-vulnerabilities.png" alt="Google Cybersecurity Professional Certificate - Assets Threats Vulnerabilities" width="300"/>
+  </a>
+  <a href="./certificados/detection-response.pdf" target="_blank">
+    <img src="./certificados/detection-response.png" alt="Google Cybersecurity Professional Certificate - Detection Response" width="300"/>
+  </a>
+  <a href="./certificados/automate-with-python.pdf" target="_blank">
+    <img src="./certificados/automate-with-python.png" alt="Google Cybersecurity Professional Certificate - Automate with Python" width="300"/>
+  </a>
+  <a href="./certificados/cybersecurity-jobs.pdf" target="_blank">
+    <img src="./certificados/cybersecurity-jobs.png" alt="Google Cybersecurity Professional Certificate - Cybersecurity Jobs" width="300"/>
+  </a>
+</div>
+
+</details>
+
+<details>
+<summary>📎 Visualizar Imagens dos Certificados dos Cursos Complementares</summary>
+  
+<div>
   <a href="./certificados/bradesco-seguranca-ti.pdf" target="_blank">
     <img src="./certificados/bradesco-seguranca-ti.png" alt="Bradesco Segurança TI" width="300"/>
   </a>
