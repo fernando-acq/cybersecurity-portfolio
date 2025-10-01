@@ -62,6 +62,12 @@ Aplicação de filtros SQL para análise de logs de segurança e investigação 
 - **Objetivo:** Detectar ameaças através de análise de logs e queries de segurança
 - **Status:** ✅ Completo
 
+### 🔹 [Linux File Permissions](https://github.com/fernando-acq/linux-file-permissions)
+Gerenciamento de permissões de arquivos e diretórios no Linux com chmod e boas práticas de segurança.
+- **Tecnologias:** Linux, Bash, chmod, ls
+- **Objetivo:** Aplicar princípio de menor privilégio e controle de acesso em sistemas
+- **Status:** ✅ Completo
+
 ---
 
 ## 📜 Certificações
