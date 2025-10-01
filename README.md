@@ -56,6 +56,12 @@ Busco oportunidades como **profissional júnior em Cibersegurança**, aplicando 
    - **Objetivo:** Automatizar gerenciamento de acessos restritos
    - **Status:** ✅ Completo
 
+### 🔹 [SQL Security Filters](https://github.com/fernando-acq/sql-security-filters)
+Aplicação de filtros SQL para análise de logs de segurança e investigação de incidentes.
+- **Tecnologias:** SQL, MySQL, filtros avançados
+- **Objetivo:** Detectar ameaças através de análise de logs e queries de segurança
+- **Status:** ✅ Completo
+
 ---
 
 ## 📜 Certificações
