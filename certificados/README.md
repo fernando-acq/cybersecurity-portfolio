@@ -25,31 +25,31 @@ Certificação profissional composta por 8 cursos, cobrindo fundamentos de segur
 
 2. **Play It Safe: Manage Security Risks**  
    Gestão de riscos e aplicação de controles de segurança.  
-   <a href="./google-manage-security-risks.pdf" target="_blank">PDF</a> | <a href="./google-manage-security-risks.png" target="_blank">PNG</a>
+   <a href="./manage-security-risks.pdf" target="_blank">PDF</a> | <a href="./manage-security-risks.png" target="_blank">PNG</a>
 
 3. **Connect and Protect: Networks and Network Security**  
    Redes, protocolos e mecanismos de proteção em ambientes corporativos.  
-   <a href="./google-networks-network-security.pdf" target="_blank">PDF</a> | <a href="./google-networks-network-security.png" target="_blank">PNG</a>
+   <a href="./networks-network-security.pdf" target="_blank">PDF</a> | <a href="./networks-network-security.png" target="_blank">PNG</a>
 
 4. **Tools of the Trade: Linux and SQL**  
    Fundamentos de Linux, comandos de terminal e uso de SQL em segurança.  
-   <a href="./google-linux-sql.pdf" target="_blank">PDF</a> | <a href="./google-linux-sql.png" target="_blank">PNG</a>
+   <a href="./linux-sql.pdf" target="_blank">PDF</a> | <a href="./linux-sql.png" target="_blank">PNG</a>
 
 5. **Assets, Threats, and Vulnerabilities**  
    Identificação de ativos críticos, análise de ameaças e avaliação de vulnerabilidades.  
-   <a href="./google-assets-threats-vulnerabilities.pdf" target="_blank">PDF</a> | <a href="./google-assets-threats-vulnerabilities.png" target="_blank">PNG</a>
+   <a href="./assets-threats-vulnerabilities.pdf" target="_blank">PDF</a> | <a href="./assets-threats-vulnerabilities.png" target="_blank">PNG</a>
 
 6. **Sound the Alarm: Detection and Response**  
    Técnicas de monitoramento, investigação e resposta a incidentes.  
-   <a href="./google-detection-response.pdf" target="_blank">PDF</a> | <a href="./google-detection-response.png" target="_blank">PNG</a>
+   <a href="./detection-response.pdf" target="_blank">PDF</a> | <a href="./detection-response.png" target="_blank">PNG</a>
 
 7. **Automate Cybersecurity Tasks with Python**  
    Automação de tarefas de segurança com Python.  
-   <a href="./google-python-cybersecurity.pdf" target="_blank">PDF</a> | <a href="./google-python-cybersecurity.png" target="_blank">PNG</a>
+   <a href="./python-cybersecurity.pdf" target="_blank">PDF</a> | <a href="./python-cybersecurity.png" target="_blank">PNG</a>
 
 8. **Put It to Work: Prepare for Cybersecurity Jobs**  
    Preparação para entrevistas e práticas profissionais em SOC.  
-   <a href="./google-job-preparation.pdf" target="_blank">PDF</a> | <a href="./google-job-preparation.png" target="_blank">PNG</a>
+   <a href="./job-preparation.pdf" target="_blank">PDF</a> | <a href="./job-preparation.png" target="_blank">PNG</a>
 
 </details>
 
