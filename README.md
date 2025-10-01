@@ -68,6 +68,12 @@ Gerenciamento de permissões de arquivos e diretórios no Linux com chmod e boas
 - **Objetivo:** Aplicar princípio de menor privilégio e controle de acesso em sistemas
 - **Status:** ✅ Completo
 
+### 🔹 [Wireshark DoS Attack Analysis](https://github.com/fernando-acq/wireshark-dos-attack-analysis)
+Análise de ataque DoS (SYN Flood) usando Wireshark com relatório completo de incidente.
+- **Tecnologias:** Wireshark, TCP/IP, análise de tráfego
+- **Objetivo:** Identificar e documentar ataques de rede com medidas de mitigação
+- **Status:** ✅ Completo
+
 ---
 
 ## 📜 Certificações
