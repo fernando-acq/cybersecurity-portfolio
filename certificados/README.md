@@ -15,7 +15,8 @@ Cada certificação está disponível em **PDF oficial** (para validação) e em
 Certificação profissional composta por 8 cursos, cobrindo fundamentos de segurança da informação, redes, sistemas operacionais, gestão de riscos, detecção de incidentes e resposta a ameaças.
 
 - *Certificado Profissional Completo*  
-  <a href="./google-cybersecurity-professional.pdf" target="_blank">PDF</a> | <a href="./google-cybersecurity-professional.png" target="_blank">PNG</a>
+  [PDF](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/google-cybersecurity-professional.pdf) | [PNG](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/google-cybersecurity-professional.png)
+
 
 ### Cursos Inclusos:
 
@@ -29,7 +30,7 @@ Certificação profissional composta por 8 cursos, cobrindo fundamentos de segur
 
 3. **Connect and Protect: Networks and Network Security**  
    Redes, protocolos e mecanismos de proteção em ambientes corporativos.  
-   <a href="./networks-network-security.pdf" target="_blank">PDF</a> | <a href="./networks-network-security.png" target="_blank">PNG</a>
+   <a href="./networks-security.pdf" target="_blank">PDF</a> | <a href="./networks-security.png" target="_blank">PNG</a>
 
 4. **Tools of the Trade: Linux and SQL**  
    Fundamentos de Linux, comandos de terminal e uso de SQL em segurança.  
