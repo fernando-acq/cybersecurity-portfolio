@@ -1,4 +1,4 @@
-# 🔐 Portfólio de Cibersegurança | Fernando ACQ
+# 🔐 Portfólio de Cibersegurança | Fernando Acquesta
 
 Bem-vindo ao meu portfólio de projetos práticos em **Cibersegurança**!  
 
@@ -51,9 +51,10 @@ Busco oportunidades como **profissional júnior em Cibersegurança**, aplicando 
 ## 📂 Projetos em Destaque
 
 ### 🔹 [Gerenciamento de Lista de Permissões IP](https://github.com/fernando-acq/ip-access-manager)
-Algoritmo em Python para automatizar a remoção de endereços IP não autorizados de arquivos de controle de acesso.
-- **Tecnologias:** Python, manipulação de arquivos
-- **Objetivo:** Automatizar gerenciamento de acessos restritos
+   Algoritmo em Python para automatizar a remoção de endereços IP não autorizados de arquivos de controle de acesso.
+   - **Tecnologias:** Python, manipulação de arquivos
+   - **Objetivo:** Automatizar gerenciamento de acessos restritos
+   - **Status:** ✅ Completo
 
 ---
 
