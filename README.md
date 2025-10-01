@@ -67,7 +67,7 @@ Conjunto de 8 cursos que compõem o programa profissional da Google:
 
 | Curso | Status | Link |
 |-------|--------|------|
-| Foundations of Cybersecurity | ✅ Concluído | [Ver Certificado](./certificados/fundations-cybersecurity.pdf) |
+| Foundations of Cybersecurity | ✅ Concluído | [Ver Certificado](./certificados/foundations-cybersecurity.pdf) |
 | Play It Safe: Manage Security Risks | ✅ Concluído | [Ver Certificado](./certificados/manage-security-risks.pdf) |
 | Connect and Protect: Networks and Network Security | ✅ Concluído | [Ver Certificado](./certificados/networks-security.pdf) |
 | Tools of the Trade: Linux and SQL | ✅ Concluído | [Ver Certificado](./certificados/linux-sql.pdf) |
@@ -95,8 +95,8 @@ Conjunto de 8 cursos que compõem o programa profissional da Google:
   <a href="./certificados/google-cybersecurity-professional.pdf" target="_blank">
     <img src="./certificados/google-cybersecurity-professional.png" alt="Google Cybersecurity Professional Certificate" width="300"/>
   </a>
-  <a href="./certificados/fundations-cybersecurity.pdf" target="_blank">
-    <img src="./certificados/fundations-cybersecurity.png" alt="Google Cybersecurity Professional Certificate - Fundations Cybersecurity" width="300"/>
+  <a href="./certificados/foundations-cybersecurity.pdf" target="_blank">
+    <img src="./certificados/foundations-cybersecurity.png" alt="Google Cybersecurity Professional Certificate - Foundations Cybersecurity" width="300"/>
   </a>
   <a href="./certificados/manage-security-risks.pdf" target="_blank">
     <img src="./certificados/manage-security-risks.png" alt="Google Cybersecurity Professional Certificate - Manage Security Risks" width="300"/>
