@@ -112,31 +112,31 @@ Conjunto de 8 cursos que compõem o programa profissional da Google:
 
 <div>
   <a href="./certificados/google-cybersecurity-professional.pdf" target="_blank">
-    <img src="./certificados/google-cybersecurity-professional.png" alt="Google Cybersecurity Professional Certificate" width="275"/>
+    <img src="./certificados/google-cybersecurity-professional.png" alt="Google Cybersecurity Professional Certificate" width="270"/>
   </a>
   <a href="./certificados/foundations-cybersecurity.pdf" target="_blank">
-    <img src="./certificados/foundations-cybersecurity.png" alt="Google Cybersecurity Professional Certificate - Foundations Cybersecurity" width="275"/>
+    <img src="./certificados/foundations-cybersecurity.png" alt="Google Cybersecurity Professional Certificate - Foundations Cybersecurity" width="270"/>
   </a>
   <a href="./certificados/manage-security-risks.pdf" target="_blank">
-    <img src="./certificados/manage-security-risks.png" alt="Google Cybersecurity Professional Certificate - Manage Security Risks" width="275"/>
+    <img src="./certificados/manage-security-risks.png" alt="Google Cybersecurity Professional Certificate - Manage Security Risks" width="270"/>
   </a>
   <a href="./certificados/networks-security.pdf" target="_blank">
-    <img src="./certificados/networks-security.png" alt="Google Cybersecurity Professional Certificate - Networks Security" width="275"/>
+    <img src="./certificados/networks-security.png" alt="Google Cybersecurity Professional Certificate - Networks Security" width="270"/>
   </a>
   <a href="./certificados/linux-sql.pdf" target="_blank">
-    <img src="./certificados/linux-sql.png" alt="Google Cybersecurity Professional Certificate - Linux Sql" width="275"/>
+    <img src="./certificados/linux-sql.png" alt="Google Cybersecurity Professional Certificate - Linux Sql" width="270"/>
   </a>
   <a href="./certificados/assets-threats-vulnerabilities.pdf" target="_blank">
-    <img src="./certificados/assets-threats-vulnerabilities.png" alt="Google Cybersecurity Professional Certificate - Assets Threats Vulnerabilities" width="275"/>
+    <img src="./certificados/assets-threats-vulnerabilities.png" alt="Google Cybersecurity Professional Certificate - Assets Threats Vulnerabilities" width="270"/>
   </a>
   <a href="./certificados/detection-response.pdf" target="_blank">
-    <img src="./certificados/detection-response.png" alt="Google Cybersecurity Professional Certificate - Detection Response" width="275"/>
+    <img src="./certificados/detection-response.png" alt="Google Cybersecurity Professional Certificate - Detection Response" width="270"/>
   </a>
   <a href="./certificados/automate-with-python.pdf" target="_blank">
-    <img src="./certificados/automate-with-python.png" alt="Google Cybersecurity Professional Certificate - Automate with Python" width="275"/>
+    <img src="./certificados/automate-with-python.png" alt="Google Cybersecurity Professional Certificate - Automate with Python" width="270"/>
   </a>
   <a href="./certificados/cybersecurity-jobs.pdf" target="_blank">
-    <img src="./certificados/cybersecurity-jobs.png" alt="Google Cybersecurity Professional Certificate - Cybersecurity Jobs" width="275"/>
+    <img src="./certificados/cybersecurity-jobs.png" alt="Google Cybersecurity Professional Certificate - Cybersecurity Jobs" width="270"/>
   </a>
 </div>
 
