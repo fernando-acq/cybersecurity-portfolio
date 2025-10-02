@@ -74,6 +74,12 @@ Análise de ataque DoS (SYN Flood) usando Wireshark com relatório completo de i
 - **Objetivo:** Identificar e documentar ataques de rede com medidas de mitigação
 - **Status:** ✅ Completo
 
+### 🔹 [tcpdump DNS Analysis](https://github.com/fernando-acq/tcpdump-dns-analysis)
+Diagnóstico de falha de comunicação DNS (porta 53) usando tcpdump para análise de rede.
+- **Tecnologias:** tcpdump, DNS, UDP, ICMP
+- **Objetivo:** Diagnosticar e resolver problemas críticos em serviços de rede
+- **Status:** ✅ Completo
+
 ---
 
 ## 📜 Certificações
