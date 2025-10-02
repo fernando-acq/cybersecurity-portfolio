@@ -21,7 +21,7 @@ Certificação profissional composta por 8 cursos, cobrindo fundamentos de segur
 
 1. **Foundations of Cybersecurity**  
    Conceitos básicos, funções e áreas de atuação em cibersegurança.  
-   [PDF](./google-foundations-cybersecurity.pdf) | [PNG](./google-foundations-cybersecurity.png)
+   [PDF](./foundations-cybersecurity.pdf) | [PNG](./foundations-cybersecurity.png)
 
 2. **Play It Safe: Manage Security Risks**  
    Gestão de riscos e aplicação de controles de segurança.  
@@ -45,11 +45,11 @@ Certificação profissional composta por 8 cursos, cobrindo fundamentos de segur
 
 7. **Automate Cybersecurity Tasks with Python**  
    Automação de tarefas de segurança com Python.  
-   [PDF](./python-cybersecurity.pdf) | [PNG](./python-cybersecurity.png)
+   [PDF](./automate-with-python.pdf) | [PNG](./automate-with-python.png)
 
 8. **Put It to Work: Prepare for Cybersecurity Jobs**  
    Preparação para entrevistas e práticas profissionais em SOC.  
-   [PDF](./job-preparation.pdf) | [PNG](./job-preparation.png)
+   [PDF](./cybersecurity-jobs.pdf) | [PNG](./cybersecurity-jobs.png)
 
 </details>
 
