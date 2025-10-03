@@ -29,9 +29,7 @@ Busco oportunidades como **profissional júnior em Cibersegurança**, aplicando 
 
 **Ferramentas Essenciais:**
 - Wireshark
-- Nmap
-- Metasploit
-- Burp Suite
+- tcpdump
 - Análise de Logs (SIEM concepts)
 
 ---
