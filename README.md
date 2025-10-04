@@ -78,6 +78,12 @@ Diagnóstico de falha de comunicação DNS (porta 53) usando tcpdump para análi
 - **Objetivo:** Diagnosticar e resolver problemas críticos em serviços de rede
 - **Status:** ✅ Completo
 
+### 🔹 [Vulnerability Assessment Report](https://github.com/fernando-acq/vulnerability-assessment-report)
+Relatório de avaliação de vulnerabilidades usando framework NIST SP 800-30 Rev. 1.
+- **Tecnologias:** NIST SP 800-30, análise de riscos, matriz de riscos
+- **Objetivo:** Identificar vulnerabilidades críticas e propor estratégias de remediação
+- **Status:** ✅ Completo
+
 ---
 
 ## 📜 Certificações
