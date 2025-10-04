@@ -114,6 +114,17 @@ Algoritmo em Python para automatizar a remoção de endereços IP não autorizad
 
 ---
 
+### **Vulnerability Assessment Report**
+*Abr 2025 - Mai 2025*
+
+Avaliação de vulnerabilidades de servidor de banco de dados MySQL utilizando framework NIST SP 800-30 Rev. 1. Análise de riscos com matriz detalhada identificando fontes de ameaça, probabilidades e impactos. Desenvolvimento de plano de remediação completo incluindo autenticação, autorização e auditoria.
+
+**Competências:** NIST SP 800-30 · Análise de riscos · Avaliação de vulnerabilidades · Matriz de riscos
+
+[🔗 Ver projeto no GitHub]([https://github.com/fernando-acq/ip-access-manage](https://github.com/fernando-acq/vulnerability-assessment-report)
+
+---
+
 ## 🛠️ Habilidades Técnicas
 
 ### **Linguagens e Scripting**
@@ -158,7 +169,7 @@ Apoio na montagem de cestas básicas destinadas a famílias em situação de vul
 ## 🌐 Idiomas
 
 - **Português:** Nativo
-- **Inglês:** Intermediário (leitura de documentação técnica)
+- **Inglês:** Intermediário
 
 ---
 
