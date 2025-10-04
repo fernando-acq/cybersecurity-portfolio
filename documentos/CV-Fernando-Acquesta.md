@@ -7,7 +7,7 @@
 ## 📫 Contato
 
 - **Email:** fernando.acq.monteiro@gmail.com
-- **Telefone:** +55 11 96341-9478
+- **Telefone:** +55 (11) 96341-9478
 - **LinkedIn:** [linkedin.com/in/fernando-acquesta-cybersecurity](https://www.linkedin.com/in/fernando-acquesta-cybersecurity)
 - **GitHub:** [github.com/fernando-acq](https://github.com/fernando-acq)
 - **Localização:** Guarulhos, SP
@@ -59,7 +59,7 @@ Fundação Bradesco | Jan 2025
 
 ## 💼 Projetos Práticos
 
-### **Wireshark DoS Attack Analysis**
+### **Análise de Ataque DoS com Wireshark (Wireshark DoS Attack Analysis)**
 *Abr 2025*
 
 Análise completa de ataque DoS (SYN Flood) utilizando Wireshark. Relatório de incidente detalhando identificação do ataque, impacto e medidas de mitigação recomendadas.
@@ -70,7 +70,7 @@ Análise completa de ataque DoS (SYN Flood) utilizando Wireshark. Relatório de 
 
 ---
 
-### **tcpdump DNS Analysis**
+### **Análise DNS com tcpdump (tcpdump DNS Analysis)**
 *Abr 2025*
 
 Diagnóstico de falha de comunicação DNS (porta 53) usando tcpdump. Análise de logs de rede, identificação da causa raiz e implementação de soluções de troubleshooting.
@@ -81,7 +81,7 @@ Diagnóstico de falha de comunicação DNS (porta 53) usando tcpdump. Análise d
 
 ---
 
-### **SQL Security Filters**
+### **Filtros SQL para Segurança (SQL Security Filters)**
 *Jul 2025*
 
 Aplicação de filtros SQL para análise de logs de segurança e investigação de incidentes. Criação de queries para detectar tentativas de login suspeitas, segmentar funcionários por departamento e identificar padrões anômalos.
@@ -92,7 +92,7 @@ Aplicação de filtros SQL para análise de logs de segurança e investigação 
 
 ---
 
-### **Linux File Permissions**
+### **Permissões de Arquivo no Linux (Linux File Permissions)**
 *Jun 2025*
 
 Gerenciamento de permissões de arquivos e diretórios no Linux aplicando o princípio de menor privilégio. Scripts demonstrativos em Bash para configuração segura de sistemas.
@@ -103,7 +103,7 @@ Gerenciamento de permissões de arquivos e diretórios no Linux aplicando o prin
 
 ---
 
-### **Gerenciamento de Lista de Permissões IP com Python**
+### **Gerenciamento de Lista de Permissões IP com Python (IP Access Manager)**
 *Ago 2025 - Set 2025*
 
 Algoritmo em Python para automatizar a remoção de endereços IP não autorizados de arquivos de controle de acesso. Demonstra competências em manipulação de arquivos, estruturas de dados e automação de tarefas de segurança.
@@ -114,7 +114,7 @@ Algoritmo em Python para automatizar a remoção de endereços IP não autorizad
 
 ---
 
-### **Vulnerability Assessment Report**
+### **Relatório de Avaliação de Vulnerabilidades (Vulnerability Assessment Report)**
 *Abr 2025 - Mai 2025*
 
 Avaliação de vulnerabilidades de servidor de banco de dados MySQL utilizando framework NIST SP 800-30 Rev. 1. Análise de riscos com matriz detalhada identificando fontes de ameaça, probabilidades e impactos. Desenvolvimento de plano de remediação completo incluindo autenticação, autorização e auditoria.
