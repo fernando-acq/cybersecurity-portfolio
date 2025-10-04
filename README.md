@@ -48,37 +48,37 @@ Busco oportunidades como **profissional júnior em Cibersegurança**, aplicando 
 
 ## 📂 Projetos em Destaque
 
-### 🔹 [Gerenciamento de Lista de Permissões IP](https://github.com/fernando-acq/ip-access-manager)
+### 🔹 [Gerenciamento de Lista de Permissões IP com Python (IP Access Manager)](https://github.com/fernando-acq/ip-access-manager)
    Algoritmo em Python para automatizar a remoção de endereços IP não autorizados de arquivos de controle de acesso.
    - **Tecnologias:** Python, manipulação de arquivos
    - **Objetivo:** Automatizar gerenciamento de acessos restritos
    - **Status:** ✅ Completo
 
-### 🔹 [SQL Security Filters](https://github.com/fernando-acq/sql-security-filters)
+### 🔹 [Filtros SQL para Segurança (SQL Security Filters)](https://github.com/fernando-acq/sql-security-filters)
 Aplicação de filtros SQL para análise de logs de segurança e investigação de incidentes.
 - **Tecnologias:** SQL, MySQL, filtros avançados
 - **Objetivo:** Detectar ameaças através de análise de logs e queries de segurança
 - **Status:** ✅ Completo
 
-### 🔹 [Linux File Permissions](https://github.com/fernando-acq/linux-file-permissions)
+### 🔹 [Permissões de Arquivo no Linux (Linux File Permissions)](https://github.com/fernando-acq/linux-file-permissions)
 Gerenciamento de permissões de arquivos e diretórios no Linux com chmod e boas práticas de segurança.
 - **Tecnologias:** Linux, Bash, chmod, ls
 - **Objetivo:** Aplicar princípio de menor privilégio e controle de acesso em sistemas
 - **Status:** ✅ Completo
 
-### 🔹 [Wireshark DoS Attack Analysis](https://github.com/fernando-acq/wireshark-dos-attack-analysis)
+### 🔹 [Análise de Ataque DoS com Wireshark (Wireshark DoS Attack Analysis)](https://github.com/fernando-acq/wireshark-dos-attack-analysis)
 Análise de ataque DoS (SYN Flood) usando Wireshark com relatório completo de incidente.
 - **Tecnologias:** Wireshark, TCP/IP, análise de tráfego
 - **Objetivo:** Identificar e documentar ataques de rede com medidas de mitigação
 - **Status:** ✅ Completo
 
-### 🔹 [tcpdump DNS Analysis](https://github.com/fernando-acq/tcpdump-dns-analysis)
+### 🔹 [Análise DNS com tcpdump (tcpdump DNS Analysis)](https://github.com/fernando-acq/tcpdump-dns-analysis)
 Diagnóstico de falha de comunicação DNS (porta 53) usando tcpdump para análise de rede.
 - **Tecnologias:** tcpdump, DNS, UDP, ICMP
 - **Objetivo:** Diagnosticar e resolver problemas críticos em serviços de rede
 - **Status:** ✅ Completo
 
-### 🔹 [Vulnerability Assessment Report](https://github.com/fernando-acq/vulnerability-assessment-report)
+### 🔹 [Relatório de Avaliação de Vulnerabilidades (Vulnerability Assessment Report)](https://github.com/fernando-acq/vulnerability-assessment-report)
 Relatório de avaliação de vulnerabilidades usando framework NIST SP 800-30 Rev. 1.
 - **Tecnologias:** NIST SP 800-30, análise de riscos, matriz de riscos
 - **Objetivo:** Identificar vulnerabilidades críticas e propor estratégias de remediação
