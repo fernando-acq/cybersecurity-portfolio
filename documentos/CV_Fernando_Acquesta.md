@@ -2,8 +2,8 @@
 
 **Estudante de Cibersegurança | Analista SOC em Formação**
 
-📧 fernando.acq.monteiro@gmail.com | 📱 +55 (11) 96341-9478 | 📍 Guarulhos, SP  
-💼 [linkedin.com/in/fernando-acquesta-cybersecurity](https://www.linkedin.com/in/fernando-acquesta-cybersecurity) | 💻 [github.com/fernando-acq](https://github.com/fernando-acq)
+fernando.acq.monteiro@gmail.com | +55 (11) 96341-9478 | Guarulhos, SP  
+[linkedin.com/in/fernando-acquesta-cybersecurity](https://www.linkedin.com/in/fernando-acquesta-cybersecurity) | [github.com/fernando-acq](https://github.com/fernando-acq)
 
 ---
 
@@ -33,24 +33,24 @@ Estudante de Cibersegurança com certificação Google Cybersecurity Professiona
 **Relatório de Avaliação de Vulnerabilidades** | Abr-Mai 2025  
 Avaliação de vulnerabilidades em servidor MySQL utilizando NIST SP 800-30 Rev. 1. Análise de riscos com matriz detalhada identificando 5+ fontes de ameaça e desenvolvimento de plano de remediação completo incluindo autenticação, autorização e auditoria.  
 *Competências: NIST SP 800-30 · Análise de riscos · Avaliação de vulnerabilidades*  
-🔗 [Ver projeto](https://github.com/fernando-acq/vulnerability-assessment-report)
+Ver projeto em: [github.com/fernando-acq/vulnerability-assessment-report](https://github.com/fernando-acq/vulnerability-assessment-report)
 
 **Análise de Ataque DoS com Wireshark** | Abr 2025  
 Identificação e análise de ataque DoS (SYN Flood) com Wireshark. Documentação de indicadores de comprometimento e relatório de incidente com medidas de mitigação recomendadas.  
 *Competências: Wireshark · TCP/IP · Análise de tráfego · Resposta a incidentes*  
-🔗 [Ver projeto](https://github.com/fernando-acq/wireshark-dos-attack-analysis)
+Ver projeto em: [github.com/fernando-acq/wireshark-dos-attack-analysis](https://github.com/fernando-acq/wireshark-dos-attack-analysis)
 
 **Filtros SQL para Segurança** | Jul 2025  
 Aplicação de filtros SQL para análise de logs de segurança e investigação de incidentes. Criação de queries para detectar tentativas de login suspeitas, segmentar dados por departamento e identificar padrões anômalos.  
 *Competências: SQL · MySQL · Análise de logs*  
-🔗 [Ver projeto](https://github.com/fernando-acq/sql-security-filters)
+Ver projeto em: [github.com/fernando-acq/sql-security-filters](https://github.com/fernando-acq/sql-security-filters)
 
 **Gerenciamento de Lista de Permissões IP com Python** | Ago-Set 2025  
 Desenvolvimento de algoritmo Python para automatizar remoção de endereços IP não autorizados de arquivos de controle de acesso, demonstrando automação de tarefas de segurança.  
 *Competências: Python · Manipulação de arquivos · Automação*  
-🔗 [Ver projeto](https://github.com/fernando-acq/ip-access-manager)
+Ver projeto em: [github.com/fernando-acq/ip-access-manager](https://github.com/fernando-acq/ip-access-manager)
 
-💻 **Portfólio completo com 6+ projetos documentados:** [github.com/fernando-acq/cybersecurity-portfolio](https://github.com/fernando-acq/cybersecurity-portfolio)
+**Portfólio completo com 6+ projetos documentados:** [github.com/fernando-acq/cybersecurity-portfolio](https://github.com/fernando-acq/cybersecurity-portfolio)
 
 ---
 
@@ -71,5 +71,3 @@ Desenvolvimento de algoritmo Python para automatizar remoção de endereços IP 
 **Português:** Nativo | **Inglês:** Intermediário
 
 ---
-
-📧 fernando.acq.monteiro@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/fernando-acquesta-cybersecurity) | 💻 [GitHub Portfolio](https://github.com/fernando-acq)
