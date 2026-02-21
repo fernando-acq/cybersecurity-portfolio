@@ -48,7 +48,7 @@ Busco oportunidades como **profissional júnior em Cibersegurança**, aplicando 
 
 ## 📂 Projetos em Destaque
 
-### 🔹 [Chamado de Incidente de Segurança – Resposta a Phishing (Security Alert Ticket)](https://github.com/fernando-acq/security-alert-ticket)
+### 🔹 [Ticket de Alerta - Resposta a Incidente de Phishing (Security Alert Ticket)](https://github.com/fernando-acq/security-alert-ticket)
 Documentação completa de resposta a incidente de phishing com análise forense e contenção de malware.
 - **Tecnologias:** SOC Operations, IDS, IoC Analysis, Incident Response, MITRE ATT&CK
 - **Objetivo:** Demonstrar resposta estruturada a incidentes de phishing com análise forense
