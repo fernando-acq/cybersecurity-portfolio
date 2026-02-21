@@ -48,11 +48,17 @@ Busco oportunidades como **profissional júnior em Cibersegurança**, aplicando 
 
 ## 📂 Projetos em Destaque
 
+### 🔹 [Chamado de Incidente de Segurança – Resposta a Phishing (Security Alert Ticket)](https://github.com/fernando-acq/security-alert-ticket)
+Documentação completa de resposta a incidente de phishing com análise forense e contenção de malware.
+- **Tecnologias:** SOC Operations, IDS, IoC Analysis, Incident Response, MITRE ATT&CK
+- **Objetivo:** Demonstrar resposta estruturada a incidentes de phishing com análise forense
+- **Status:** ✅ Completo
+
 ### 🔹 [Gerenciamento de Lista de Permissões IP com Python (IP Access Manager)](https://github.com/fernando-acq/ip-access-manager)
-   Algoritmo em Python para automatizar a remoção de endereços IP não autorizados de arquivos de controle de acesso.
-   - **Tecnologias:** Python, manipulação de arquivos
-   - **Objetivo:** Automatizar gerenciamento de acessos restritos
-   - **Status:** ✅ Completo
+Algoritmo em Python para automatizar a remoção de endereços IP não autorizados de arquivos de controle de acesso.
+- **Tecnologias:** Python, manipulação de arquivos
+- **Objetivo:** Automatizar gerenciamento de acessos restritos
+- **Status:** ✅ Completo
 
 ### 🔹 [Filtros SQL para Segurança (SQL Security Filters)](https://github.com/fernando-acq/sql-security-filters)
 Aplicação de filtros SQL para análise de logs de segurança e investigação de incidentes.
