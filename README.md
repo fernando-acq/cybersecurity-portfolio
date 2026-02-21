@@ -187,10 +187,12 @@ Conjunto de 8 cursos que compõem o programa profissional da Google:
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernando-acq&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fernando-acq&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fernando-acq&layout=compact&theme=dark)
 
 ---
 
 ⭐ **Este portfólio está em constante atualização com novos projetos!**
 
-📌 Última atualização: Setembro 2025
+📌 Última atualização: Fevereiro 2026
