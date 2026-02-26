@@ -84,6 +84,12 @@ Diagnóstico de falha de comunicação DNS (porta 53) usando tcpdump para análi
 - **Objetivo:** Diagnosticar e resolver problemas críticos em serviços de rede
 - **Status:** ✅ Completo
 
+### 🔹 [Incident Report Analysis - NIST CSF](https://github.com/fernando-acq/incident-report-analysis-nist-csf)
+Análise completa de ataque DDoS (ICMP Flood) usando as 5 funções do NIST Cybersecurity Framework.
+- **Tecnologias:** NIST CSF, DDoS Analysis, Incident Response, Firewall Configuration
+- **Objetivo:** Demonstrar aplicação prática do NIST CSF em resposta estruturada a incidentes
+- **Status:** ✅ Completo
+
 ### 🔹 [Relatório de Avaliação de Vulnerabilidades (Vulnerability Assessment Report)](https://github.com/fernando-acq/vulnerability-assessment-report)
 Relatório de avaliação de vulnerabilidades usando framework NIST SP 800-30 Rev. 1.
 - **Tecnologias:** NIST SP 800-30, análise de riscos, matriz de riscos
