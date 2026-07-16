@@ -183,6 +183,14 @@ Conjunto de 8 cursos que compõem o programa profissional da Google:
 
 ---
 
+## 🚧 Em Andamento
+
+- 🎯 Cursando o learning path **SOC Level 1** na TryHackMe (SIEM, triagem de alertas, phishing analysis, IR)
+- 🎓 Preparação para a certificação **CompTIA Security+ (SY0-701)**
+- 📅 Formatura prevista: Dezembro 2026 (Tecnólogo em Cibersegurança - Anhanguera)
+
+---
+
 ## 📫 Contato
 
 - 🟦 **LinkedIn:** [fernando-acquesta-cybersecurity](https://www.linkedin.com/in/fernando-acquesta-cybersecurity)
@@ -201,4 +209,4 @@ Conjunto de 8 cursos que compõem o programa profissional da Google:
 
 ⭐ **Este portfólio está em constante atualização com novos projetos!**
 
-📌 Última atualização: Fevereiro 2026
+📌 Última atualização: Julho 2026
